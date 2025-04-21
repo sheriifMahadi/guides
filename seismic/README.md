@@ -66,6 +66,9 @@ Then deploy
 
     curl -fsSL https://bun.sh/install | bash
 
+<hr/>  
+
+
 ### 2. Install node dependencies
 Change directories 
 
@@ -74,6 +77,9 @@ Change directories
 Then run 
 
     bun install
+
+<hr/>  
+
 
 ### 3. Send transaction
     bash script/transact.sh
