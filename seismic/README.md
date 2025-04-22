@@ -55,6 +55,10 @@ Then we change into the directory
     cd try-devnet/packages/contract/
 <hr/>  
 
+![Screenshot 2025-04-22 071553](https://github.com/user-attachments/assets/878bd63c-ac1b-4751-a81f-2757ab16adec)
+### If you come across this error when running the command above, refer to this guide
+
+
 ### 6. Deploy contract
 Then deploy 
 
