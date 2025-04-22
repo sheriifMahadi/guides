@@ -64,6 +64,11 @@ Then deploy
 
     bash script/deploy.sh
 
+![Screenshot 2025-04-22 075001](https://github.com/user-attachments/assets/c17933af-2dd6-4fcd-b084-75d791e46162)
+
+Visit https://faucet-2.seismicdev.net/ then copy the address provided and request faucet. Press enter and wait for it to deploy. Congrats you've deployed your first contract on Seismic.
+
+
 ## Interact with an encrypted contract
 
 ### 1. Install bun
@@ -87,3 +92,6 @@ Then run
 
 ### 3. Send transaction
     bash script/transact.sh
+
+Do the same as you did in the deploy contract step. 
+![Screenshot 2025-04-22 074737](https://github.com/user-attachments/assets/6c33b927-0d45-46b1-a291-403a97d4d7d0)
