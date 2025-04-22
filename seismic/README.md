@@ -3,7 +3,8 @@
 Gmic, in this guide we are going to deploy a contract on seismic devnet. This works on Mac, Linux, and Windows via wsl  
 Also, check out the official docs at https://docs.seismic.systems/appendix/devnet
 
-**NOTE - This is not incentivized and should be done for fun and learning.**  
+**NOTE - This is not incentivized and should be done for fun and learning.** 
+Reach out to me at https://x.com/mederoldi if you face any challenges. lets get into it. 
 ## Deploy and encrypted contract
 
 ### 1. Install rust  
