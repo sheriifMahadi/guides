@@ -76,7 +76,7 @@ Then deploy
 ### 2. Install node dependencies
 Change directories 
 
-    cd try-devnet/packages/cli/
+    cd ~/try-devnet/packages/cli/
 
 Then run 
 
